@@ -8,7 +8,10 @@ A passionate DevOps|Site Reliability Engineer with hands-on extensive experience
 I’ve worked across multiple industries including - Value Added Services, E-commerce, Telecommunication, Internet.
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/linux.gif"  height="150" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/linux.png"  height="150" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/ansible.png"  height="150" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/python.png"  height="150" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/terraform.png"  height="150" />
 </p>
 
 Certification:
