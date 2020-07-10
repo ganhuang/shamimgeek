@@ -3,7 +3,7 @@
 <!--
 **shamimgeek/shamimgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-A passionate DevOps|Site Reliability Engineer with hands-on extensive experience in designing, automating and implementing large scale Hybrid and Multi-Cloud solutions. In-depth understanding of DevOps methodology with CI/CD automation through wide range of DevOps tools.
+I am Shamim, a passionate DevOps|Site Reliability Engineer with hands-on extensive experience in designing, automating and implementing large scale Hybrid and Multi-Cloud solutions. In-depth understanding of DevOps methodology with CI/CD automation through wide range of DevOps tools.
 
 I’ve worked across multiple industries including - Value Added Services, E-commerce, Telecommunication, Internet.
 
