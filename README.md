@@ -8,13 +8,22 @@ A passionate DevOps|Site Reliability Engineer with hands-on extensive experience
 I’ve worked across multiple industries including - Value Added Services, E-commerce, Telecommunication, Internet.
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/linux.png"  height="150" />
-  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/ansible.png"  height="150" />
-  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/python.png"  height="150" />
-  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/terraform.png"  height="150" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/kubernetes.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/googlecloud.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/openstack.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/aws.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/prometheus.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/jenkins.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/bash.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/python.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/Go.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/linux.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/ansible.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/terraform.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/elastic.png"  height="40" />
 </p>
 
-Certification:
+**Certification**:
 - Certified Kubernetes Administrator [CKA]
 - Certified Kubernetes Application Developer [CKAD]
 - AWS Certified Solutions Architect – Associate
