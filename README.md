@@ -25,6 +25,7 @@ I’ve worked across multiple industries including - Value Added Services, E-com
   <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/packer.png"  height="40" />
   <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/vault.png"  height="40" />
   <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/etcd.png"  height="40" />
+  <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/cilium.png"  height="40" />
   <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/zookeeper.png"  height="40" />
   <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/elastic.png"  height="40" />
   <img src="https://raw.githubusercontent.com/shamimgeek/shamimgeek/master/images/git.png"  height="40" />
