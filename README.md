@@ -42,3 +42,4 @@ I’ve worked across multiple industries including - Value Added Services, E-com
 - HashiCorp Certified Terraform Associate
 - Red Hat Certified System Engineer [RHCE]
 - Google IT Automation with Python (Coursera)
+- Udacity Nanodegree in Cloud DevOps Engineer
